@@ -127,3 +127,11 @@
      bottom: 200px;
      right: 50px;
  }
+
+@media only screen and (max-width:425px) {
+    .outer-box{
+        height: 200vh;
+        width: 120vh;
+        
+    }
+ }
